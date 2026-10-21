@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Varsha
 
-I'm a Software Engineer with 4+ years of experience building enterprise applications, distributed systems, and cloud-native solutions. Currently pursuing my Master's in Computer Science at Colorado School of Mines.
+I’m a Software Engineer with 4+ years of experience building scalable enterprise, B2B, and SaaS applications. Currently pursuing my Master's in Computer Science at Colorado School of Mines.
 
-I enjoy building AI-powered applications, scalable backend systems, and full-stack solutions.My resume highlights what I’ve built professionally, while my GitHub and portfolio showcase what I’m passionate about building.
+I enjoy building AI-powered applications, scalable backend systems, and full-stack solutions.My resume highlights what I’ve built professionally, while my GitHub and portfolio showcases what I’m passionate about building.
 
 ### 🚀 Featured Projects
 
