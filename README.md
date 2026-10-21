@@ -4,6 +4,10 @@ I’m a Software Engineer with 4+ years of experience building scalable enterpri
 
 I enjoy building AI-powered applications, scalable backend systems, and full-stack solutions.My resume highlights what I’ve built professionally, while my GitHub and portfolio showcases what I’m passionate about building.
 
+**Linkedin:** https://www.linkedin.com/in/varsha-sathiskumar
+
+**Portfolio:** https://varshasathiskumar.github.io/
+
 ### 🛠️ Tech Stack
 
 | Category | Technologies |
